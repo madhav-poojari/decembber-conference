@@ -221,6 +221,7 @@ td {
 /* Conference Title Logo */
 .title1 {
   color: #b2132e;
+  font-size: 0.8em;
   text-shadow: 1px 1px 3px #c0c0c0;
 }
 .title3 {
@@ -231,6 +232,8 @@ td {
 
 .title2 {
   color: #52739e;
+  font-size: 0.75em;
+
   text-shadow: 1px 1px 3px #c0c0c0;
 }
 .year {
