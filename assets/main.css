@@ -266,6 +266,10 @@ td.sponsor {
 td.sponsor img {
   width: 100%;
 }
+td.sps {
+  width: 100%;
+  transform: rotate(90deg);
+}
 
 /* The Table on the Program Page */
 td.room {
