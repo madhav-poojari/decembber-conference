@@ -95,7 +95,7 @@ ul {
   text-align: left;
 }
 ul li {
-  list-style-type:disc;
+  list-style-type: disc;
   margin: 0px auto 0px auto;
   padding: 0px;
   text-align: left;
@@ -132,50 +132,55 @@ td {
   /*border: 1px solid black;*/
 }
 
-.main-text{
+.main-text {
   text-align: justify;
   line-height: 1.5em;
 }
 
-.frstbox{
-  height:300px ;
+.frstbox {
+  height: 300px;
   width: 100%;
   background-color: aliceblue;
   border: solid 1px;
   border-radius: 2%;
   overflow-x: hidden;
 }
-.head{
+.head {
   height: 100px;
   width: 100%;
   background-color: aquamarine;
   border-radius: 15px 15px 0px 0px;
 }
-.header{
+.header {
   height: 80px;
   width: 25%;
   margin-left: 7%;
   margin-top: 0%;
   position: absolute;
 }
-.size{
-  width:100% ;
+.size {
+  width: 100%;
 }
-#extend{
+#extend {
   width: 100%;
   height: 50px;
 }
-.first, .second, .third, .fourth, .fifth, .six {
+.first,
+.second,
+.third,
+.fourth,
+.fifth,
+.six {
   display: none;
 }
 
-.cpcc{
+.cpcc {
   height: 300px;
   overflow: scroll;
   overflow-x: hidden;
 }
 
-.schedule{
+.schedule {
   width: 100%;
   aspect-ratio: auto;
 }
@@ -218,6 +223,12 @@ td {
   color: #b2132e;
   text-shadow: 1px 1px 3px #c0c0c0;
 }
+.title3 {
+  color: #b2132e;
+  font-size: 0.8em;
+  text-shadow: 1px 1px 3px #c0c0c0;
+}
+
 .title2 {
   color: #52739e;
   text-shadow: 1px 1px 3px #c0c0c0;
